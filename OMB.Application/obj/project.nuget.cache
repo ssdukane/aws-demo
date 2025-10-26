@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "d3m5Y5MOOG6p2DFmBxkP5T+bEFxMMGokAh5LBjHcb8/iBgsFEZcw+jUl7gwS4TlRzpYNtNIr5bTHl9Mlp9g+fA==",
+  "success": true,
+  "projectFilePath": "D:\\Repo\\OMB.API\\OMB.Application\\OMB.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shailendra.d\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

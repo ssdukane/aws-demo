@@ -1,0 +1,17 @@
+D:\Repo\OMB.API\OMB.Application\bin\Debug\net6.0\Entities\Customer.cs
+D:\Repo\OMB.API\OMB.Application\bin\Debug\net6.0\Entities\Product.cs
+D:\Repo\OMB.API\OMB.Application\bin\Debug\net6.0\OMB.Application.deps.json
+D:\Repo\OMB.API\OMB.Application\bin\Debug\net6.0\OMB.Application.dll
+D:\Repo\OMB.API\OMB.Application\bin\Debug\net6.0\OMB.Application.pdb
+D:\Repo\OMB.API\OMB.Application\bin\Debug\net6.0\OMB.Domain.dll
+D:\Repo\OMB.API\OMB.Application\bin\Debug\net6.0\OMB.Domain.pdb
+D:\Repo\OMB.API\OMB.Application\obj\Debug\net6.0\OMB.Application.csproj.AssemblyReference.cache
+D:\Repo\OMB.API\OMB.Application\obj\Debug\net6.0\OMB.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repo\OMB.API\OMB.Application\obj\Debug\net6.0\OMB.Application.AssemblyInfoInputs.cache
+D:\Repo\OMB.API\OMB.Application\obj\Debug\net6.0\OMB.Application.AssemblyInfo.cs
+D:\Repo\OMB.API\OMB.Application\obj\Debug\net6.0\OMB.Application.csproj.CoreCompileInputs.cache
+D:\Repo\OMB.API\OMB.Application\obj\Debug\net6.0\OMB.Application.csproj.CopyComplete
+D:\Repo\OMB.API\OMB.Application\obj\Debug\net6.0\OMB.Application.dll
+D:\Repo\OMB.API\OMB.Application\obj\Debug\net6.0\refint\OMB.Application.dll
+D:\Repo\OMB.API\OMB.Application\obj\Debug\net6.0\OMB.Application.pdb
+D:\Repo\OMB.API\OMB.Application\obj\Debug\net6.0\ref\OMB.Application.dll
